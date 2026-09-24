@@ -1,2 +1,6 @@
-# achievement-forge
-Automation sandbox for merged-PR workflows
+# Achievement Forge
+
+Sandbox for automated workflow badges.
+
+## Log
+- init merge-workflow demo
